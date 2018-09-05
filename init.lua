@@ -2,8 +2,8 @@
 -- also forward to Thingspeak if reeived arg is in TS field table
 -- manifest; webster, webserver, TSClient, webclient, checkwifi 
 -- Constants
-SSID    = "98FM"
-APPWD   = "potentiometer"
+SSID    = "SSID"
+APPWD   = "password"
 INTERVAL = 1200000
 -- Some control variables
 wifiTrys     = 0      -- Counter of trys to connect to wifi
